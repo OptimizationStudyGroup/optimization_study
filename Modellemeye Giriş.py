@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Onur
 # # Modellemeye Giriş
 
 # In[1]:
@@ -71,6 +72,25 @@ print("Amaç Değeri ",z)
 
 
 # In[20]:
+# Gökhan
+# # Modellemeye giriş
+
+# Matematiksel model bir açıklama verir.Olayı ölçülebilir bir hale getirir.Prescriptive 'önerici'
+# Descriptive-İstatistik,EDA (explore data analysis)
+# Predictive-Machine Learning constrainlerini veriyor optimizasyon için
+# Prescriptive-Optimizasyon
+# 
+# 
+
+# ## Amaç Fonksiyonu,Kısıtlar,Karar Değişkenleri
+
+# Amaç Fonksiyonu:Bu modeli kurarken neyi hedefliyorum
+# Karar değişkenleri:Modelimde nerde olduğumu gösteren değişkenler    
+# Kısıtlar:Modelimin sınırlarını belirleyen değerler
+#     Bunlar sonucunda 
+#     stochastic:olasılığa bağlılık   
+
+ 
 
 
 
